@@ -40,4 +40,4 @@ This leads to difficulty in:
 
 
 ```markdown
-![ER Diagram](screenshots/er_diagram.png)
+![ER Diagram](screenshots/er.png)
