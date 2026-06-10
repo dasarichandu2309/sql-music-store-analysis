@@ -38,6 +38,6 @@ This leads to difficulty in:
 
 ## 🗂️ Database Schema
 
-
-```markdown
-![ER Diagram](screenshots/er.png)
+<p align="center">
+  <img src="screenshots/er.png" width="600"/>
+</p>
